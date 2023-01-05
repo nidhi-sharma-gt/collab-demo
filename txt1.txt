@@ -1,2 +1,4 @@
 this is a text file.
 upadted text file:Abhishek
+x = 10
+y = 30
