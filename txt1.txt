@@ -1,2 +1,4 @@
 this is a text file.
 This is new line added by Akanshu
+x = 10
+y = 30
